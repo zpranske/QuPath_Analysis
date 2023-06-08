@@ -1,10 +1,14 @@
 %%%%%% QUPATH PIPELINE %%%%%%
 % Zachary Pranske
 % Paradis Lab
+<<<<<<< HEAD
 % Rev. 06/07/2023 
 
 %% Description
 %
+=======
+% Rev. 11/2022  
+>>>>>>> 024c743ab0dabfa782115650a250f4909c39a1db
 
 %% Combine files
 defaultpath = 'C:\Users\Zachary_Pranske\Desktop\Datasets\2023-04-21 analysis rnascope\output';
